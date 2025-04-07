@@ -99,5 +99,7 @@ Trata-se de um exercício fundamental para consolidar a base da programação es
 
 **João Victor Oliveira Santos**  
 Curso de Engenharia de Software 
+
 Logica de Programação em C
+
 Faculdade: Estácio de Sá
