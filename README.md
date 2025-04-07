@@ -1,7 +1,7 @@
 
 # Jogo de Batalha Naval em C - Desafio da Faculdade
 
-Este projeto foi desenvolvido como parte dos desafios propostos pela disciplina de **Programação de Computadores** no curso de **Engenharia de Software**. O objetivo foi construir, em três etapas, uma versão progressivamente mais completa do clássico jogo **Batalha Naval**, utilizando a linguagem C. Cada nível adiciona novos conceitos de lógica de programação, manipulação de matrizes, validação e visualização em console.
+Este projeto foi desenvolvido como parte dos desafios propostos pela disciplina de **Introdução à Programação de Computadores** no curso de **Engenharia de Software**. O objetivo foi construir, em três etapas, uma versão progressivamente mais completa do clássico jogo **Batalha Naval**, utilizando a linguagem C. Cada nível adiciona novos conceitos de lógica de programação, manipulação de matrizes, validação e visualização em console.
 
 ---
 
